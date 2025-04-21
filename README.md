@@ -9,14 +9,14 @@ This repository contains my certifications across IT, Networking, and Cybersecur
 - **Cybersecurity Basics** – Cisco Networking Academy  
   _Topics: Threats & vulnerabilities, CIA triad, tools, basic defense strategies_
   - **[Cybersecurity Basics – Cisco Networking Academy](https://www.credly.com/badges/e784197e-58e2-4459-b0e3-d24dc41df1a1/public_url)**  
-  _Topics: Threats & vulnerabilities, CIA triad, tools, basic defense strategies_
+
 
 ## Networking
 
 - **Networking Basics** – Cisco Networking Academy  
   _Topics: IP addressing, subnetting, routers, switches, and topologies_
-  - **[Networking Basics – Cisco Networking Academy]([https://www.credly.com/badges/efgh5678-9101-2345](https://www.credly.com/badges/9f5917a8-aca4-4ba3-ae0f-943872358137/public_url))**  
-  _Topics: IP addressing, subnetting, routers, switches, and topologies_
+  - **[Networking Basics – Cisco Networking Academy](https://www.credly.com/badges/efgh5678-9101-2345](https://www.credly.com/badges/9f5917a8-aca4-4ba3-ae0f-943872358137/public_url))**  
+
 
 ---
 
