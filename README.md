@@ -15,7 +15,7 @@ This repository contains my certifications across IT, Networking, and Cybersecur
 
 - **Networking Basics** – Cisco Networking Academy  
   _Topics: IP addressing, subnetting, routers, switches, and topologies_
-  - **[Networking Basics – Cisco Networking Academy](https://www.credly.com/badges/efgh5678-9101-2345](https://www.credly.com/badges/9f5917a8-aca4-4ba3-ae0f-943872358137/public_url))**  
+  - **[Networking Basics – Cisco Networking Academy](https://www.credly.com/badges/efgh5678-9101-2345](https://www.credly.com/badges/9f5917a8-aca4-4ba3-ae0f-943872358137/public_url)**  
 
 
 ---
