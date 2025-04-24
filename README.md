@@ -15,7 +15,12 @@ This repository contains my certifications across IT, Networking, and Cybersecur
 
 - **Networking Basics** – Cisco Networking Academy  
   _Topics: IP addressing, subnetting, routers, switches, and topologies_
-  - **[Networking Basics – Cisco Networking Academy](https://www.credly.com/badges/9f5917a8-aca4-4ba3-ae0f-943872358137/public_url)**  
+  - **[Networking Basics – Cisco Networking Academy](https://www.credly.com/badges/9f5917a8-aca4-4ba3-ae0f-943872358137/public_url)** 
+
+### 🛡️ Audit & Governance
+
+- **CISA 101 – Certified Information Systems Auditor (Udemy)**  
+  _Covered audit lifecycle, risk assessment, governance principles, and information systems controls. Helps connect the dots between compliance and cybersecurity._ 
 
 
 ---
