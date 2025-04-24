@@ -21,7 +21,8 @@ This repository contains my certifications across IT, Networking, and Cybersecur
 
 - **CISA 101 – Certified Information Systems Auditor (Udemy)**  
   _Covered audit lifecycle, risk assessment, governance principles, and information systems controls. Helps connect the dots between compliance and cybersecurity._ 
-
+- **[CISA 101 – Certified Information Systems Auditor (Udemy)](https://www.udemy.com/certificate/UC-f864bcba-4140-47a9-a077-6dd7c49c267f/)**  
+  
 
 ---
 
